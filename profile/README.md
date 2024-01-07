@@ -21,11 +21,11 @@ integration with Git, GitHub and Conventional Commit to a fully standalone CI/CD
 
 **Additional information:**
 
--   Technical Support: We offer 24/7 technical support to help you resolve any issues
+-   **Technical Support:** We offer 24/7 technical support to help you resolve any issues
     you may have while using our tools.
 
--   Documentation: Each project comes with detailed documentation to help you quickly
+-   **Documentation:** Each project comes with detailed documentation to help you quickly
     learn its capabilities.
 
--   New standards and best practices: We build on new standards and best practices to
+-   **New standards and best practices:** We build on new standards and best practices to
     make our tools as efficient and secure as possible.
