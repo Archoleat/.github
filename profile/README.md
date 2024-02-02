@@ -1,20 +1,20 @@
-# Welcome to Conqueror Site Builder
+# Welcome to Archoleat
 
-**Conqueror Site Builder** is a comprehensive toolkit for web development, designed to streamline
+**Archoleat** is a comprehensive toolkit for web development, designed to streamline
 the development process and empower developers to create stunning websites with ease.
 Our tools cater to a wide range of tasks, from basic font conversion to complex CI/CD pipelines,
 ensuring that you have the flexibility to build websites that perfectly align with your specific needs.
 
 ## Empowering Developers
 
-At **Conqueror Site Builder**, we believe in empowering developers to focus on what matters
+At **Archoleat**, we believe in empowering developers to focus on what matters
 most – creating innovative and engaging websites. Our tools are designed to automate repetitive
 tasks, eliminate mundane coding, and streamline the development process, allowing you to spend
 more time on the creative aspects of your work.
 
 ## A Unified Development Ecosystem
 
-**Conqueror Site Builder** provides a unified development ecosystem, with all our tools working
+**Archoleat** provides a unified development ecosystem, with all our tools working
 seamlessly together. This integration ensures a consistent and streamlined development experience,
 eliminating the need to switch between multiple tools and platforms.
 
@@ -28,7 +28,7 @@ allowing you to create a customized configuration that perfectly aligns with you
 
 Our tools address a wide spectrum of web development challenges, from font conversion and Git
 integration to comprehensive CI/CD pipelines. Whether you need to convert fonts for cross-platform
-compatibility or automate repetitive testing processes, Conqueror Site Builder has the tools to get the job done effectively.
+compatibility or automate repetitive testing processes, Archoleat has the tools to get the job done effectively.
 
 ## Technical Support for Your Success
 
@@ -48,13 +48,13 @@ We are committed to staying at the forefront of web development technologies and
 the latest standards and best practices into our tools. This commitment ensures that our tools
 remain efficient, secure, and compatible with the ever-evolving web development landscape.
 
-## Join the Conqueror Site Builder Community
+## Join the Archoleat Community
 
 We encourage you to join our vibrant community of developers, where you can share ideas,
 exchange knowledge, and collaborate with fellow enthusiasts. Our community is a valuable
 resource for learning, problem-solving, and staying up-to-date with the latest trends in web development.
 
-## Conquer the Web Development Process with Conqueror Site Builder
+## Conquer the Web Development Process with Archoleat
 
-Embrace the power of Conqueror Site Builder and elevate your web development experience.
+Embrace the power of Archoleat and elevate your web development experience.
 Our tools will empower you to create stunning websites with efficiency, flexibility, and a focus on innovation.
