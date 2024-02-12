@@ -1,6 +1,1 @@
-# Welcome to Archoleat
-
-**Archoleat** is a passionate organization dedicated to empowering front-end developers with essential
-tools that foster minimalism, embrace new standards, prioritize best practices, and ensure both ease
-of use and learning. We believe in crafting simple yet powerful solutions that elevate your workflow
-and unlock the full potential of your creativity.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=2000&pause=3000&center=true&vCenter=true&random=false&width=435&lines=Minimalism+with+Archoleat)](https://git.io/typing-svg)
