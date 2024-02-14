@@ -1,0 +1,37 @@
+name: Feature Request
+description: Create a report to help us improve this project!
+labels:
+  - 'type: feature'
+assignees:
+  - nikkeyl
+
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to fill out this feature request!
+
+  - type: textarea
+    id: describe
+    attributes:
+      label: Describe
+      description: Describe your feature!
+      placeholder: Your feature
+    validations:
+      required: true
+
+  - type: textarea
+    id: explain
+    attributes:
+      label: Explain
+      description: Explain why this feature would be useful.
+      placeholder: How your feature could be useful
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      options:
+        - label: I Agree to Follow This Project's Code of Conduct
+          required: true
