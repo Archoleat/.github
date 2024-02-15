@@ -1,0 +1,41 @@
+name: Report a Bug
+description: Is something not working as you expect?
+labels:
+  - 'type: bug'
+assignees:
+  - nikkeyl
+
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for taking the time to file a bug report!
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: What Steps are Needed to Reproduce the Bug?
+    validations:
+      required: true
+
+  - type: textarea
+    id: expect
+    attributes:
+      label: What Did You Expect to Happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: What Actually Happened?
+      description: For example, what warnings or errors did you get?
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      options:
+        - label: I Agree to Follow This Project's Code of Conduct
+          required: true

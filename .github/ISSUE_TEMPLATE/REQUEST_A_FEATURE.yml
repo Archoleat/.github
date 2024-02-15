@@ -1,21 +1,19 @@
-name: Docs Enhancement
-description: Create a report to help us improve this project!
+name: Request a Feature
+description: Do you want to suggest a new feature?
 labels:
-  - 'type: documentation'
+  - 'type: feature'
 assignees:
   - nikkeyl
 
 body:
   - type: markdown
     attributes:
-      value: Thanks for taking the time to fill out this docs enhancement!
+      value: Thank you for taking the time to request a feature!
 
   - type: textarea
     id: describe
     attributes:
-      label: Describe
-      description: Describe your enhancement!
-      placeholder: Your enhancement
+      label: Describe what problem you're trying to solve?
     validations:
       required: true
 
