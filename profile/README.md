@@ -1,1 +1,0 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=2000&pause=3000&color=33DD88FF&center=true&vCenter=true&random=false&width=435&lines=Minimalism+with+Archoleat)](https://git.io/typing-svg)
