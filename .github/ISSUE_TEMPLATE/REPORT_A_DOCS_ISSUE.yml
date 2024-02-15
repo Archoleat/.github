@@ -1,0 +1,26 @@
+name: Report a Docs Issue
+description: Is something wrong, confusing or missing in the docs?
+labels:
+  - 'type: documentation'
+assignees:
+  - nikkeyl
+
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for taking the time to file a docs issue report!
+
+  - type: textarea
+    id: describe
+    attributes:
+      label: Describe the Documentation Issue
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      options:
+        - label: I Agree to Follow This Project's Code of Conduct
+          required: true
