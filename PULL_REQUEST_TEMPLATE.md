@@ -8,12 +8,11 @@ Please, go through these steps before you submit a **Pull Request**.
 
     -   You have done your changes in a separate branch.
         Branches MUST have descriptive names that start with either:
-        **`fix/`**, **`feature/`** or **`refactor/`** prefixes.
+        `fix/`, `feature/` or `refactor/` prefixes.
 
         > Example:
         >
-        > Good: **`fix/signin-issue`**, **`feature/issue-templates`**
-        > or **`refactor/button`**.
+        > Good: `fix/signin-issue`, `feature/issue-templates` or `refactor/button`.
 
     -   You have a descriptive commit message with a short title (first line).
 
@@ -25,7 +24,7 @@ Please, go through these steps before you submit a **Pull Request**.
 
     -   Describe your changes.
 
-    -   Put **`closes #XXXX`** in your comment to auto-close
+    -   Put `closes #XXXX` in your comment to auto-close
         the Issue that your **Pull Request** fixes (if such).
 
 IMPORTANT: Please see our **Contribution Guidelines** for details.
