@@ -1,6 +1,6 @@
-# Archoleat Community Health Files
+# About Archoleat
 
-Community health files for Archoleat
+Experiment, automate and standardize with next-generation tools and AI!
 
 ## Contributing
 
