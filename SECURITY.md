@@ -13,7 +13,7 @@ to help us better understand the nature and extent of the potential **Issue**:
 
 -   Problem type
 -   Full paths to source files associated with the manifestation of the problem.
--   Location of the affected source code (tag/branch/commit or direct URL).
+-   Location of the affected source code (`tag/branch/commit` or direct URL).
 -   Any special configuration required to reproduce the problem.
 -   Step by step instructions to reproduce the problem.
 
