@@ -24,7 +24,7 @@
 
 ## Other
 
-- [Rights of AI](https://github.com/archoleat/rights-of-ai)
+- [.rigts-of-ai](https://github.com/archoleat/rights-of-ai)
 - [.helpers](https://github.com/archoleat/.helpers)
 - [.vscode](https://github.com/archoleat/.vscode)
 - [.github](https://github.com/archoleat/.github)
