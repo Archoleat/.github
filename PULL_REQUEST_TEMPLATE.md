@@ -24,7 +24,7 @@ Please, go through these steps before you submit a **Pull Request**.
 
   - Describe your changes.
 
-  - Put `closes #XXXX` in your comment to auto-close
+  - Put `closes #XXX` in your comment to auto-close
     the Issue that your **Pull Request** fixes (if such).
 
 IMPORTANT: Please see our **Contribution Guidelines** for details.
