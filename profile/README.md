@@ -1,6 +1,10 @@
-<a href="https://github.com/archoleat/.github/blob/main/README.md">
-  <img src="../assets/label.jpg" alt="Archoleat Science">
-</a>
+[![Archoleat Science](../assets/label.jpg)](https://github.com/archoleat/.github/blob/main/README.md)
 
-In our organization, we create, automate, experiment,
-standardize, test, and simplify workflows.
+Welcome to **Archoleat Science**!
+Our organization is dedicated to transforming workflows through creativity
+and innovation. We strive to create, automate, experiment, standardize, test,
+and simplify processes to foster efficiency
+and effectiveness in various domains.
+
+Thank you for visiting **Archoleat Science**!
+Together, let's redefine what’s possible in workflow innovation.

@@ -11,11 +11,25 @@ body:
       value: Thank you for taking the time to request a feature!
 
   - type: textarea
-    id: describe
+    id: problem
     attributes:
-      label: Describe what problem you're trying to solve?
+      label: What problem are you trying to solve?
     validations:
       required: true
+
+  - type: textarea
+    id: benefits
+    attributes:
+      label: What are the benefits of this feature?
+    validations:
+      required: true
+
+  - type: textarea
+    id: drawbacks
+    attributes:
+      label: Are there any potential considerations we should know about?
+    validations:
+      required: false
 
   - type: checkboxes
     id: terms
