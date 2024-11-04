@@ -7,7 +7,7 @@ submitting your **Pull Request**.
 
 ## Pre-submission Checklist
 
-- [\] **Duplicate Check**: Ensure that your **Pull Request**
+- [ \] **Duplicate Check**: Ensure that your **Pull Request**
   is not a duplicate of an existing one.
 
 > If your **Pull Request** is not a duplicate, please make sure you have:
