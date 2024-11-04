@@ -14,8 +14,25 @@ body:
     id: describe
     attributes:
       label: Describe the Documentation Issue
+      placeholder: Describe the issue you encountered and suggest your updates.
     validations:
       required: true
+
+  - type: textarea
+    id: section
+    attributes:
+      label: Specific Section of Documentation
+      placeholder: Indicate which part of the documentation needs improvement.
+    validations:
+      required: true
+
+  - type: textarea
+    id: clarity
+    attributes:
+      label: Request for Clarification
+      placeholder: Specify what you believe needs clarification.
+    validations:
+      required: false
 
   - type: checkboxes
     id: terms

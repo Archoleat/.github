@@ -14,6 +14,7 @@ body:
     id: reproduce
     attributes:
       label: What Steps are Needed to Reproduce the Bug?
+      description: Please outline the precise steps needed to replicate the issue.
     validations:
       required: true
 
@@ -21,6 +22,7 @@ body:
     id: expect
     attributes:
       label: What Did You Expect to Happen?
+      description: Describe the expected behavior.
     validations:
       required: true
 
@@ -28,9 +30,17 @@ body:
     id: actual
     attributes:
       label: What Actually Happened?
-      description: For example, what warnings or errors did you get?
+      description: Describe what happened instead.
     validations:
       required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant Logs or Screenshots
+      description: If applicable, please include any relevant logs or screenshots.
+    validations:
+      required: false
 
   - type: checkboxes
     id: terms
