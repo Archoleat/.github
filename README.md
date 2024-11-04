@@ -1,4 +1,4 @@
-<img src="assets/label.jpg" alt="Archoleat Science">
+# Archoleat Science
 
 ## Table of Content
 
