@@ -1,5 +1,6 @@
 {
   "exclude": [
+    "config.yml",
     "README.md"
   ]
 }
