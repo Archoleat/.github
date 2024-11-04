@@ -28,7 +28,7 @@ submitting your **Pull Request**.
 
 - [ \] **Descriptive Commit Message**: Used a clear and concise commit
   message that includes a short title on the first line.
-  For example, use imperative tense and focus on the "what" and "why".
+  For example, use imperative tense and focus on the *what* and *why*.
 
 - [ \] **Error Check**: Ensured there are no errors or warnings in your code.
   Compile and test your changes if applicable.
