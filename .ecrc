@@ -1,6 +1,7 @@
 {
   "exclude": [
     "config.yml",
+    "CONTRIBUTING.md",
     "README.md"
   ]
 }
