@@ -33,10 +33,10 @@ If you have found a bug, please follow these steps:
 
 1. Complete the form with as much detail as possible, including:
 
-   - Steps to reproduce the issue;
-   - Expected behavior;
-   - Actual behavior;
-   - Any relevant logs or screenshots;
+    - Steps to reproduce the issue;
+    - Expected behavior;
+    - Actual behavior;
+    - Any relevant logs or screenshots;
 
 ## Suggesting Features
 
@@ -46,9 +46,9 @@ Have an idea to improve the project? We want to hear it!
 
 1. Provide a comprehensive description of the feature, including:
 
-   - Problem it solves;
-   - Benefits of the feature;
-   - Any potential drawbacks or considerations;
+    - Problem it solves;
+    - Benefits of the feature;
+    - Any potential drawbacks or considerations;
 
 ## Improve Documentation
 
@@ -56,10 +56,10 @@ We appreciate any efforts to enhance our documentation!
 
 1. Go to `Issue > New Issue > Report a Docs Issue`.
 
-   - Indicate what part of the documentation needs improvement
-     and suggest your updates;
+    - Indicate what part of the documentation needs improvement
+      and suggest your updates;
 
-   - Be specific about what you believe needs clarification
-     or additional detail;
+    - Be specific about what you believe needs clarification
+      or additional detail;
 
 Thank you for your contributions! Together, we can make this project even better.
