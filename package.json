@@ -4,7 +4,7 @@
     "@commitlint/cli": "^19.6.0",
     "@commitlint/config-conventional": "^19.6.0",
     "@commitlint/types": "^19.5.0",
-    "editorconfig-checker": "^5.1.6",
+    "editorconfig-checker": "^5.1.9",
     "git-pull-run": "^1.4.0",
     "husky": "^9.1.7",
     "lint-staged": "^15.2.10",
