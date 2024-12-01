@@ -2,7 +2,7 @@
   "devDependencies": {
     "@archoleat/commitlint-define-config": "^1.1.0",
     "@commitlint/cli": "^19.5.0",
-    "@commitlint/config-conventional": "^19.5.0",
+    "@commitlint/config-conventional": "^19.6.0",
     "@commitlint/types": "^19.5.0",
     "editorconfig-checker": "^5.1.6",
     "git-pull-run": "^1.4.0",
